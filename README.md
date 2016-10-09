@@ -80,3 +80,10 @@ github:https://github.com/lesliesam/react-native-wheel-picker
 ![image](https://raw.githubusercontent.com/lesliesam/react-native-wheel-picker/master/demo.gif)
 
 
+
+14、安卓选择器类库，包括日期时间选择器、单项选择器、二三级联动选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器等，可自定义顶部及底部界面，可自定义窗口动画。
+github:https://github.com/gzu-liyujiang/AndroidPicker
+
+![image](https://github.com/gzu-liyujiang/AndroidPicker/raw/master/screenshots/custom.gif)
+![image](https://github.com/gzu-liyujiang/AndroidPicker/raw/master/screenshots/date.gif)
+![image](https://github.com/gzu-liyujiang/AndroidPicker/raw/master/screenshots/time.gif)
