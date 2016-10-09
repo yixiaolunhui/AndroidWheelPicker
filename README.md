@@ -40,3 +40,43 @@ github:https://github.com/ai212983/android-spinnerwheel
 7、仿照iOS的滚轮控件，从请吃饭apk反编译出来的
 github:https://github.com/weidongjian/androidWheelView
 ![image](http://upload-images.jianshu.io/upload_images/43468-ddcbc9fd60003996.gif?imageMogr2/auto-orient/strip)
+
+
+8、An Android Widget for selecting items that rotate on a wheel.
+github:https://github.com/BCsl/CursorWheelLayout
+![image](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif2.gif)
+![image](https://github.com/BCsl/CursorWheelLayout/raw/master/screenshot/gif3.gif)
+
+
+
+9、Simple and easy to use circular menu widget for Android.
+github:https://github.com/anupcowkur/Android-Wheel-Menu
+![image](https://camo.githubusercontent.com/d1881a5c22e294ccfb3c71fb7b52b54649455326/68747470733a2f2f7261772e6769746875622e636f6d2f616e7570636f776b75722f416e64726f69642d576865656c2d4d656e752f6d61737465722f67726170686963732f776865656c2e676966)
+
+
+10、WheelView TimePicker CityPicker 滚轮（联动）选择器
+github:https://github.com/helloJp/WheelView
+![image](https://camo.githubusercontent.com/d94ecea1cf297e9dc48c93d0ebd950d38a118d73/687474703a2f2f3778746433632e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f776865656c566965772d73686f7430312e676966)
+
+
+11、Android滚轮控件，基于ListView实现，可以自定义样式。
+github:https://github.com/venshine/WheelView
+![image](https://github.com/venshine/WheelView/raw/master/screenshot/screenshot.gif)
+![image](https://github.com/venshine/WheelView/raw/master/screenshot/screenshot1.png)
+![image](https://github.com/venshine/WheelView/raw/master/screenshot/screenshot2.png)
+
+
+12、通过recyclerview实现的滚动选择年龄
+github:https://github.com/kailaisi/WheelSelect
+![image](https://github.com/kailaisi/WheelSelect/raw/master/app/wheel.gif)
+
+
+13、Cross platform Picker component based on React-native.
+   
+   Since picker is originally supported by ios while Android only supports a ugly Spinner component. If you want to have the same user behaviour, you can use this.
+
+
+github:https://github.com/lesliesam/react-native-wheel-picker
+![image](https://raw.githubusercontent.com/lesliesam/react-native-wheel-picker/master/demo.gif)
+
+
